@@ -1,0 +1,18 @@
+.odd-element {
+  background-color: rgb(245, 101, 125);
+  font-family: Veranda, sans-serif;
+}
+.element-three {
+  font-size: 24px;
+}
+
+#element-two {
+  color: #3c4bd4;
+  font-size: 36px;
+}
+
+#element-four {
+  background-color: #54a554c7;
+  font-size: 24px;
+  font-weight: bold;
+}
